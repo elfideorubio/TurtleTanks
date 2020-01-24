@@ -1,0 +1,510 @@
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Effects/M_beam_ramp.uasset" 0
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Effects/M_radial_ramp.uasset" 2
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Effects/P_electricity_arc.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 4
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 5
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Textures/Effects/T_SmokeTile.uasset" 6
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Textures/Effects/T_SmokeTile_N.uasset" 7
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Effects/M_ribbon_smoke.uasset" 8
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Effects/P_Ribbon_trails.uasset" 9
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Effects/P_spark_burst.uasset" 10
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/VectorFields/VelocityGrid60.uasset" 11
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Effects/P_vectorfield.uasset" 12
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Physical_Materials/Concrete.uasset" 13
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Physical_Materials/Metal.uasset" 14
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Physical_Materials/Rubber.uasset" 15
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Materials/MM_SimpleColor.uasset" 16
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Basic_Floor.uasset" 17
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Floor_400x400.uasset" 18
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Basic_Wall.uasset" 19
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Pillar_50x500.uasset" 20
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_AssetPlatform.uasset" 21
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 22
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_400x200.uasset" 23
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_400x300.uasset" 24
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_400x400.uasset" 25
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_500x500.uasset" 26
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 27
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 28
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 29
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 30
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Collapse01.uasset" 31
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Collapse02.uasset" 32
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Collapse_Cue.uasset" 33
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Explosion01.uasset" 34
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Explosion02.uasset" 35
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Fire01.uasset" 36
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Fire_Sparks01.uasset" 37
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Light01.uasset" 38
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Light01_Cue.uasset" 39
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Light02.uasset" 40
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Light02_Cue.uasset" 41
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Smoke01.uasset" 42
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 43
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Birds01.uasset" 44
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Music01.uasset" 45
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 46
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Wind05.uasset" 47
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Starter_Wind06.uasset" 48
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Steam01.uasset" 49
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Lamp_M.uasset" 50
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Lamp_N.uasset" 51
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Lamp.uasset" 52
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 53
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 54
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Explosion_Cue.uasset" 55
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Burst_M.uasset" 56
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Burst.uasset" 57
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 58
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 59
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 60
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 61
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 62
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 63
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 64
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Explosion.uasset" 65
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 66
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Fire01_Cue.uasset" 67
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 68
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 69
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 70
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Water_N.uasset" 71
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 72
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 73
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Fire.uasset" 74
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 75
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Smoke01_Cue.uasset" 76
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Smoke.uasset" 77
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 78
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 79
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Spark_Core.uasset" 80
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Spark.uasset" 81
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Sparks.uasset" 82
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 83
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Audio/Steam01_Cue.uasset" 84
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Steam_Lit.uasset" 85
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 86
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 87
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 88
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 89
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 90
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 91
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 92
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 93
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 94
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 95
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 96
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 98
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 99
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 100
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 101
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 102
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 103
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 104
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 105
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 106
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 107
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_MacroVariation.uasset" 108
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 109
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 110
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 111
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 112
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 113
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 114
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 115
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 116
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 117
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 118
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 119
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 120
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 121
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 122
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 123
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 124
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 125
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 126
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 127
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 128
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 129
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 130
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 131
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 132
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 133
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 134
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 135
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Gradinet_01.uasset" 136
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 137
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 138
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 139
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 140
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 141
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 142
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 143
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 144
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 145
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 146
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 147
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 148
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 149
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 150
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 151
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 152
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 153
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 154
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 155
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 156
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 157
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 158
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 159
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 160
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Ground_Grass.uasset" 161
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 162
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 163
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 164
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 165
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 166
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Ground_Moss.uasset" 167
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 171
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Copper.uasset" 174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Gold.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Rust.uasset" 179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 181
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Metal_Steel.uasset" 182
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 184
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 185
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Rock_Slate.uasset" 192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Tech_Panel.uasset" 203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Water_Lake.uasset" 204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Water_M.uasset" 205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Water_Ocean.uasset" 206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 207
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 208
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 209
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Wood_Oak.uasset" 215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Wood_Pine.uasset" 218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 221
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/MaterialSphere.uasset" 225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Bush_D.uasset" 226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Bush_N.uasset" 227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Bush.uasset" 228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Bush.uasset" 229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Chair_M.uasset" 230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Chair_N.uasset" 231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Chair.uasset" 232
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Chair.uasset" 233
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Frame_M.uasset" 234
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Frame_N.uasset" 235
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Frame.uasset" 236
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_CornerFrame.uasset" 237
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Couch.uasset" 238
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Glass.uasset" 239
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Door_M.uasset" 240
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Door_N.uasset" 241
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Door.uasset" 242
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Door.uasset" 243
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_DoorFrame.uasset" 244
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_GlassWindow.uasset" 245
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 246
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 247
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 248
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_PillarFrame.uasset" 249
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_PillarFrame300.uasset" 250
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_RockMesh_M.uasset" 251
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_RockMesh_N.uasset" 252
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Rock.uasset" 253
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Rock.uasset" 254
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Shelf_M.uasset" 255
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Shelf_N.uasset" 256
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Shelf.uasset" 257
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Shelf.uasset" 258
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Stairs.uasset" 259
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Statue_M.uasset" 260
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_Statue_N.uasset" 261
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_Statue.uasset" 262
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 263
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_Statue.uasset" 264
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_TableRound_M.uasset" 265
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Textures/T_TableRound_N.uasset" 266
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/Materials/M_TableRound.uasset" 267
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_TableRound.uasset" 268
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Props/SM_WindowFrame.uasset" 269
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Cone.uasset" 270
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Cube.uasset" 271
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 272
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 273
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Pipe.uasset" 274
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 275
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 276
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Plane.uasset" 277
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 278
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Sphere.uasset" 279
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Torus.uasset" 280
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Trim.uasset" 281
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 282
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 283
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 284
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Tube.uasset" 285
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 286
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 287
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 288
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 289
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 290
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 291
+"../../../Engine/Content/BasicShapes/Cone.uasset" 292
+"../../../Engine/Content/BasicShapes/Cube.uasset" 293
+"../../../Engine/Content/BasicShapes/Plane.uasset" 294
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 295
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 296
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 297
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 298
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 299
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 300
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 301
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 302
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 303
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 304
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 305
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 306
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 307
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 308
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 309
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 310
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 311
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 312
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 313
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 314
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 315
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 316
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 317
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 318
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 319
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 320
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 321
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 322
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 323
+"../../../Engine/Content/EditorResources/S_Note.uasset" 324
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 325
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 326
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 327
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 328
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 329
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 330
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 331
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 332
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 333
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 334
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 335
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 336
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 337
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 339
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 340
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 341
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 342
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 343
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 344
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 345
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 346
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 347
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 348
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 349
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 350
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 351
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 352
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 353
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 354
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 355
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 362
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 363
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 364
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 365
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 366
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 367
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 368
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 369
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 370
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 371
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 372
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 373
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 374
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 375
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 376
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 377
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 378
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 379
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 380
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 381
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 382
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 383
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 384
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 385
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 386
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 387
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 388
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 389
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 390
+"../../../Engine/Content/EngineResources/Black.uasset" 391
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 392
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 393
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 394
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 395
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 396
+"../../../Engine/Content/EngineSounds/Master.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 399
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 400
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 401
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 402
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 403
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 406
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 408
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 409
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 410
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 411
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 412
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 413
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 414
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 415
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 416
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 417
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 418
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 419
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 421
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 422
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 423
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 424
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 425
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 426
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 427
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 428
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 429
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 430
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 431
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 432
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 433
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 434
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 435
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 436
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 437
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 438
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 439
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 440
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 441
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 442
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 443
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 445
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 446
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 447
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 448
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 449
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 450
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 451
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/AIC_GoalKeeper.uasset" 452
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Textures/Effects/T_Pixel_Noise.uasset" 453
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Meshes/Ghost/M_Ghost_Body.uasset" 454
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Meshes/Ghost/SM_Ghost.uasset" 455
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/BP_GoalKeeper.uasset" 456
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 457
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 458
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 459
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 460
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 461
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 462
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 463
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 464
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 465
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 466
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 467
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 468
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/PhysicMaterials/PM_BouncingBall.uasset" 469
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/BP_Ball.uasset" 470
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/TankMesh/TankGlobalAxis_Skeleton.uasset" 471
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Animation/ABP_Tank.uasset" 472
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/Wheels/BackWheel.uasset" 473
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/Wheels/FrontWheel.uasset" 474
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Textures/Tank_ao.uasset" 475
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Textures/Tank_dif.uasset" 476
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Textures/Tank_gloss.uasset" 477
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Textures/Tank_norm.uasset" 478
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Textures/Tank_spec.uasset" 479
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Materials/MM_Tank.uasset" 480
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Materials/MI_RedTank.uasset" 481
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Textures/Effects/T_sunflare.uasset" 482
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Effects/m_flare_03.uasset" 483
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Materials/Effects/M_square_ramp.uasset" 484
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/GameJamKit/Effects/P_GPU_particles_attraction.uasset" 485
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/TankMesh/TankGlobalAxis_PhysicsAsset.uasset" 486
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/TankMesh/TankGlobalAxis.uasset" 487
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/BP_Tank.uasset" 488
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/LibrarieAndInterfaces/I_Gameplay.uasset" 489
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/UI/WBP_PauseMenu.uasset" 490
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/PC_TurtleTanks.uasset" 491
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/LibrarieAndInterfaces/L_Utilities.uasset" 492
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/UI/WBP_Score.uasset" 493
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/GM_TurtleTank.uasset" 494
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Core/BP_Goal.uasset" 495
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Maps/BattleArena_Map_BuiltData.uasset" 496
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 498
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Materials/MM_Glass.uasset" 499
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/Materials/MI_Glass.uasset" 500
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Assets/BattleDome/BattleDome.uasset" 501
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Maps/BattleArena_Map.umap" 502
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Maps/MainMenu_Map_BuiltData.uasset" 503
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 504
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 505
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/UI/WBP_MainMenu.uasset" 506
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/TurtleTanks/Content/Maps/MainMenu_Map.umap" 507
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 508
+"../../../Engine/Content/Maps/Entry.umap" 509
